@@ -1,4 +1,4 @@
-# Homework for module 1
+# Heriseon Company/Homework for module 1
 Heriseon Search Optimization Company
 
 ## User Story
