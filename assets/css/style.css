@@ -65,7 +65,7 @@ p {
     margin-right: 25px;
 }
 /*moves element to the right^^^^^*/
-.float-right {
+#float-right {
     float: right;
     margin-left: 25px;
 }
