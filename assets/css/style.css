@@ -20,7 +20,8 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+
+.seo {
     color: #d9dcd6;
 }
 
@@ -32,9 +33,7 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
-    list-style-type: none;
-}
+
 
 .header div ul li {
     display: inline-block;
