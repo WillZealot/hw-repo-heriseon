@@ -1,31 +1,32 @@
+ /*----/2.1.0/----body section*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
     }
- /*gives the entire page a border with no margin or padding^^^^^^*/
 body {
     background-color: #d9dcd6;
 }
-/*gives the body a color of #d9dcd^^^^^ */
-/*-------------------------------------------------------------------header section BELOW------------------------*/
+/*gives the entire page a border with no margin or padding and adds color to body*/
+
+/*----/2.2.0/----Header section*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-/*adds specific fonts and colours to header^^^^^^^^ */
+/*adds specific fonts and colours to header*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-/*adds inline property to header elements^^^^*/
+/*adds inline property to header elements*/
 
 .seo {
     color: #d9dcd6;
 }
-/*color of letters seo in header change^^^^ */
+/*color of letters seo in header change*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,24 +34,27 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/*adds positioning fonts/ font sizes and padding top/right to elements to the right of Horiseon header text^^^^^^^^^^^^^^^ */
+/*adds positioning fonts/ font sizes and padding top/right to elements to the right of Horiseon header text*/
 
 
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/*add margin and display of inline to elements to the right of horiseon logo in header^^^^^^^^^^^^^^^^ */
+/*add margin and display of inline to elements to the right of horiseon logo in header*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-/*gives white color to links of elements to the right of horiseon logo in header^^^^^^^^^^*/
-/*-------------------------------------------------------------------header section ABOVE----------------------------------*/
+/*gives white color to links of elements to the right of horiseon logo in header*/
+
+/*----section 2.3.0----FONT-Size*/
 p {
     font-size: 16px;
 }
-/*give a font to all p/text elements on site^^^^^^^*/
+/*give a font to all p/text elements on site*/
+
+/*----/section 2.4.0/---- IMAGE positioning icludes background_img and content_imgs */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,24 +63,25 @@ p {
     background-size: cover;
     background-position: center;
 }
-/*gives positioning to background image under the header^^^^^^^^^*/
+/*gives positioning to background image under the header*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-/*moves element to the right^^^^^*/
+/*moves element to the right*/
 #float-right {
     float: right;
     margin-left: 25px;
 }
-/*moves elements to the left^^^^^^^^^*/
+/*moves elements to the left*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 /*gives the content width and a display of inline with a margin*/
-/*--------------------------------------------------------------benefits section BELOW-------------------------------------------------*/
+
+/*----/section 2.5.0/----Benefits styles section*/
 /*keeps content section under background image to the left and inline */
 .benefits {
     margin-right: 20px;
@@ -88,12 +93,12 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*benefits section on the right side of the website gives it a cute background color of a light blue and gives it a primary font^^^^^^^*/
+/*benefits section on the right side of the website gives it a cute background color of a light blue and gives it a primary fon*/
 .benefit-lead , .benefit-brand ,  .benefit-cost{
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*gives benefits section a margin^^^^^*/
+/*gives benefits section a margin*/
 
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
@@ -106,8 +111,8 @@ p {
     max-width: 150px;
 }
 /*centers the img elements of the benefits section*/
-/*--------------------------------------------------^^^^^^^^^^^^^^^^^^^benefits section ABOVE^^^^^^^^^^^^^^^^^----------------------------------*/
-/*--------------------Content/.search-engine-optimization, .online-reputation-management, .social-media-marketing section BELOW-------------------------------------- */
+
+/*----/section2.6.0/.search-engine-optimization, .online-reputation-management, .social-media-marketing section---- */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -127,7 +132,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/*^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^Content/.search-engine-optimization, .online-reputation-management, .social-media-marketing section ABOVE^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
+
+/*----/2.07.0/----footer section*/
 .footer {
     padding: 30px;
     clear: both;
