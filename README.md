@@ -1,5 +1,6 @@
 # Heriseon Company for module 1
 Heriseon Search Optimization Company
+[link to deployed project](https://willzealot.github.io/hw-repo-heriseon/)
 
 ## Welcome amazing person !
     Welcome wonderful user to the Heriseon
@@ -18,6 +19,8 @@ Heriseon Search Optimization Company
     challenge that needs to be turned in.
     Simplifying Html structures and 
     streamlining some css elements.
+![image](https://user-images.githubusercontent.com/127908016/232376143-c1e38ed2-0f30-4697-a40c-52d62fb30950.png)
+
 
 ### What was used to make this?
 ###### Html to give it structure
