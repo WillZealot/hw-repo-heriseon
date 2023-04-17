@@ -13,6 +13,11 @@ Heriseon Search Optimization Company
     increase their visibility to customers or their targeted consumer.
     People who are looking for business as 
     they travel, shop, or sit on their couch at home.
+    Aswell as giving ucf coding bootcamp students a way of
+    practising coding and being a module 1
+    challenge that needs to be turned in.
+    Simplifying Html structures and 
+    streamlining some css elements.
 
 ### What was used to make this?
 ###### Html to give it structure
