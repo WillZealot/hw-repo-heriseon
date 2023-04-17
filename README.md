@@ -1,9 +1,9 @@
-# Heriseon Company/Homework for module 1
+# Heriseon Company for module 1
 Heriseon Search Optimization Company
 
-## Welcome
+## Welcome amazing person !
     Welcome wonderful user to the Heriseon
-     Search Engine Optimization Website Landing Page!
+    Search Engine Optimization Website Landing Page!
     Search Engine Optimization (SEO) 
     allows you to increase your visibility and find
     the right customers for your business!
@@ -15,7 +15,8 @@ Heriseon Search Optimization Company
     they travel, shop, or sit on their couch at home.
 
 ### What was used to make this?
-    Some Html was used to construct the page. As well as some css to stylize the website.
+###### Html to give it structure
+###### css to stylize the website.
 
 # Table of Contents for HTML & CSS file
 ## index.html File Contents
@@ -30,11 +31,11 @@ Heriseon Search Optimization Company
 ###### 2.1.0 Body section
 ###### 2.2.0 Header section
 ###### 2.3.0 FONT-Size section
-###### 2.4.0 IMAGE positioning icludes background_img and content_imgs section
+###### 2.4.0 IMAGE positioning includes background_img and content_imgs section
 ###### 2.5.0 Benefits styles section
 ###### 2.6.0 .search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing section
+###### .online-reputation-management,
+###### .social-media-marketing section
 ###### 2.7.0 Footer section
 
 # Licenses
