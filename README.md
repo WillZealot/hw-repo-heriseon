@@ -1,26 +1,37 @@
 # Heriseon Company/Homework for module 1
 Heriseon Search Optimization Company
 
-## User Story
+## Welcome
+    Welcome wonderful user to the Heriseon Search Engine Optimization Website Landing Page
+    Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+## Why was the project created
+    Created to inform/help companies or other users how to increase their visibility to customers or their targeted consumer.
+    People who are looking for business as they travel, shop, or sit on their couch at home.
 
-## Acceptance Criteria
+## What was used to make this?
+    Some Html was used to construct the page. As well as some css to stylize the website.
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+# Table of Contents for HTML & CSS file
+## index.html File Contents
+1.1.0 The Head Section
+1.2.0 The Body Section Begins
+1.3.0 Header Section
+1.4.0 Content Section below header
+1.5.0 The Benefits Section
+1.6.0 Footer section
+
+## style.css File Contents
+2.1.0 Body section
+2.2.0 Header section
+2.3.0 FONT-Size section
+2.4.0 IMAGE positioning icludes background_img and content_imgs section
+2.5.0 Benefits styles section
+2.6.0 .search-engine-optimization, .online-reputation-management, .social-media-marketing section
+2.7.0 Footer section
+
+# Licenses
+MIT License
+
+## Credits
+William Tikhonenko 
